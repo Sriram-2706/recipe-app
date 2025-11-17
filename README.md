@@ -23,6 +23,7 @@ A simple frontend is also included to make it easier to browse, search, and view
 
 ## 2. Project Structure
 
+```
 RECIPE-APP/
 │
 ├── app/
@@ -45,6 +46,8 @@ RECIPE-APP/
 │
 ├── requirements.txt
 └── .gitignore
+```
+
 
 
 ---
